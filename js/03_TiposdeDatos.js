@@ -20,7 +20,7 @@ console.log(typeof numero2)
 console.log(typeof numero3)
 
 // Strings o Cadenas de Texto
-const alumno = "Juan"
+const alumno = "Harrisson"
 let producto = 'Monitor 20 pulgadas'
 const numero = "30"
 const numero4 = 30

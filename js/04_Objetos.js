@@ -19,9 +19,9 @@ console.log(nombre)
 console.log(precio)
 console.log(disponible)
 
-// Object Literal Enhacement
+// Object Literal Enhacement > Coloca datos dentro del objeto
 const autenticado2 = true
-const usuario2 = "Juan"
+const usuario2 = "Harrisson"
 
 const nuevoObjeto = {
     autenticado,

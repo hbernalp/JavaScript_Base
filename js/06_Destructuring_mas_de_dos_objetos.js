@@ -7,12 +7,12 @@ const producto = {
 }
 
 const cliente = {
-    nombre: 'Juan',
+    nombre: 'Harrisson',
     premium : true
 }
 
-const { nombre, precio, disponible } = producto
-const { nombre: nombreCliente, premium } = cliente
+const { nombre, precio, disponible } = producto
+const { nombre: nombreCliente, premium } = cliente
 
 console.log(nombre)
 console.log(nombreCliente)

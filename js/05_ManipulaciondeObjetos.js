@@ -5,6 +5,7 @@ const producto = {
     disponible: true
 }
 
+// BigMetodos
 // Object.freeze(producto) - Freeze - No deja modificarlo, no permite añadir ni eliminar
 // Object.seal(producto) - Modificar propiedades existentes, no permite añadir ni eliminar
 
@@ -14,6 +15,7 @@ producto.nombre = "Monitor Curvo"
 // Si no existe, lo va a añadir
 producto.imagen = "imagen.jpg"
 
+// Eliminar el dato del objeto 
 delete producto.disponible
 
 console.table(producto)

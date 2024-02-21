@@ -5,11 +5,13 @@ const producto = {
     disponible: true
 }
 const cliente = {
-    nombre: 'Juan',
+    nombre: 'Harrisson',
     premium : true
 }
 
 // const nuevoObjeto = Object.assign(producto, cliente) // No
+
+//De esta forma ExpressOperator hace la copia de los objetos
 const nuevoObjeto2 = { 
     producto: {...producto},
     cliente: {...cliente}

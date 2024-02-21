@@ -1,5 +1,5 @@
 // Variables - let 
-let cliente = "Juan"
+let cliente = "Harrisson"
 let precioDescuento = 220 // camelCase
 
 // Re asignar
